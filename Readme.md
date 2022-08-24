@@ -19,5 +19,5 @@ ____________What i learned from this project____________
 
 _____________Time to complete the project_____________
 
-It took 3 hrs to complete this project 
+It took 8 hrs to complete this project 
 
